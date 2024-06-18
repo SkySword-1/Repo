@@ -1,1 +1,2 @@
 Hello, it's own world!
+Second string.
